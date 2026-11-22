@@ -77,4 +77,7 @@ docker stop my-todo-container
 
 Parinita Ganesh Gurram
 
-GitHub: https://github.com/Parinita2425
+GitHub: https://github.com/Parinita2425git add README.md
+## Application Screenshot
+
+![To-Do List Application](todo-app-screenshot.png)
